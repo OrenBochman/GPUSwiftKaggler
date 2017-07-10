@@ -1,6 +1,6 @@
 # GPUSwiftKaggler: A swift based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 
-![](metal.jpeg)
+![](swiftkaggler.png)
 
 ## Introduction
 
@@ -13,6 +13,8 @@ You are in the right place.
 
 ## Bakcground 
 **Apple's Metal** is a low-level, low-overhead hardware-accelerated graphics API that debuted in iOS 8. Apple states that Metal "lets developers create highly immersive console-style games on iPhone. Metal is optimized to allow the CPU and GPU to work together to deliver detailed graphics and complex visual eﬀects." 
+
+![](metal.jpeg)
 
 Apple had also recently presented a native machine learning (**CoreML**) and machine vision (**Vision**) frameworks augmenting the already existing libraries they provided (e.g, Accelerate). This significantly enhances the vast array of ML based apps that can be deployed to IOS based devices.
 

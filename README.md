@@ -19,17 +19,14 @@ Apple had also recently presented a native machine learning (CoreML) and machine
 Stack:
 
 • The GPU
-
 • CoreML
-
 • Accelerate
-
+• MPSCNN
+• Metal Performance Shaders
+• CNN
 • Metal
-
 • Swift
-
 • iOS 11.0 Beta
-
 • Xcode 9+ Beta
 
 

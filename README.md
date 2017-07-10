@@ -1,6 +1,6 @@
 # GPUSwiftKaggler: A swift based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 
-<img src="https://github.com/QuantScientist/GPUSwiftKaggler/edit/master/swiftkaggler.png" width="48">
+<img src="https://github.com/QuantScientist/GPUSwiftKaggler/blob/master/swiftkaggler.png" width="48">
 
 ## Introduction
 

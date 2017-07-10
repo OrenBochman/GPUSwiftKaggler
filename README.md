@@ -1,5 +1,7 @@
 <img src="https://github.com/QuantScientist/GPUSwiftKaggler/blob/master/swiftkaggler.png" width="300">
 
+**WORK IN PROGRESS*
+
 # A Swift/Metal based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 ![Swift 3.0 compatible](https://img.shields.io/badge/Swift-3.0-orange.svg)
 

@@ -39,7 +39,7 @@ You are in the right place.
 
 Apple had also recently presented a native machine learning (**CoreML**) and machine vision (**Vision**) frameworks augmenting the already existing libraries they provided (e.g, Accelerate). This significantly enhances the vast array of ML based apps that can be deployed to IOS based devices.
 
-![](playground.png)
+![](02_OSX_metal_sigmoid_playground.png)
 
 ## Usage
 

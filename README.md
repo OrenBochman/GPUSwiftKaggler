@@ -40,46 +40,17 @@ Apple had also recently presented a native machine learning (**CoreML**) and mac
 
 ![](playground.png)
 
-## Requirements
-*Note: To use this library you need Xcode 8 and an iOS 10-compatible device (or latest Mac OSX) with at least an A8 processor.*
-Stack:
-
-• The GPU
-
-• CoreML
-
-• Accelerate
-
-• MPSCNN
-
-• Metal Performance Shaders
-
-• CNN
-
-• Metal
-
-• Swift
-
-• iOS 11.0 Beta
-
-• Xcode 9+ Beta
-
-
 ## Usage
 
 This example shows how to use an existing Kaggle Data set.
-
 ```swift
 import HDF5Kit
 import Metal 
 import Accelerate
 import GPUSwiftKaggler
-
 ```
 
-
 ## Maintainer
-
 Shlomo Kashani ([shlomo@deep-ml.com](http://deep-ml.com))
 
 

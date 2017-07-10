@@ -1,5 +1,6 @@
 # IOS-Deep-Learning
-IOS/OSX Machine and Deep Learning
+IOS/OSX Machine and Deep Learning.
+*Note: To run the app you need Xcode 8 and an iOS 10-compatible device (or latest Mac OSX) with at least an A8 processor.*
 
 ![](metal.jpeg)
 

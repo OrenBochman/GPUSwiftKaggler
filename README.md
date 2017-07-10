@@ -1,9 +1,8 @@
 # IOS-Deep-Learning
 IOS/OSX Machine and Deep Learning
 
-# keras-cntk-docker
 
-![](playground.gif)
+![](playground.jpeg)
 
 This repository contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance.
 In particular each lesson describes a different topic while building knwoledge from previous lessons. 

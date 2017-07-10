@@ -1,6 +1,7 @@
 <img src="https://github.com/QuantScientist/GPUSwiftKaggler/blob/master/swiftkaggler.png" width="300">
 
 # A Swift/Metal based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
+![Swift 3.0 compatible](https://img.shields.io/badge/Swift-3.0-orange.svg)
 
 ## Introduction
 
@@ -48,20 +49,16 @@ Stack:
 
 ## Usage
 
-To set up your mac for using Metal on a GPU instance, run these commands:
+This example shows how to use an existing Kaggle Data set.
 
-```sh
+```swift
+import HDF5Kit
+import Metal 
+import Accelerate
+import GPUSwiftKaggler
+
 ```
 
-To run a Playground:
-```sh
-
-```
-
-To run an Xcode project:
-
-```sh
-```
 
 ## Maintainer
 

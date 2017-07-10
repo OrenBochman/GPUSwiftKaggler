@@ -31,11 +31,6 @@ for count in -10...10 {
     sigmoid(x: Float(count))
 }
 
-let fib88 = executionTimeInterval {
-    let x = fib(n: 8)
-    print("fib(8) = \(x)")
-}
-
 // can be loaded from resources folder
 let iris1NSImage=NSImage(named: "iris1")
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/QuantScientist/GPUSwiftKaggler/blob/master/swiftkaggler.png" width="250">
+<img src="https://github.com/QuantScientist/GPUSwiftKaggler/blob/master/swiftkaggler.png" width="300">
 
 # GPUSwiftKaggler: A swift based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 

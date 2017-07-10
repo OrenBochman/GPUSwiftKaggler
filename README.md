@@ -9,6 +9,14 @@
 
 **AFAIK, GPUSwiftKaggler is the first Swift based library for Kaggle.** 
 
+## Features
+- [x] Very fast: uses Metal and Accelerate under the hood. 
+- [x] Extensible image processing for feature generation.
+- [x] TBD
+- [x] TBD
+- [x] TBD
+- [x] TBD
+
 ## Motivation 
 **Dreaming about writing an ML based app for the iPhone?** Want to get your hands dirty in a Kaggle competition? Want to use the GPU with Metal? 
 You are in the right place. 

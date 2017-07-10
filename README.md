@@ -18,6 +18,7 @@
 - `Metal` framework
 - `MPS (Metal Performance Shaders)` framework
 - `HDF5KIT` framework
+- `MetalACC` framework
 
 ## Features
 - [x] Very fast: uses Metal and Accelerate under the hood which leaverages the GPU and SIMD of the CPU, which make the code run faster than native Swift code.
@@ -62,4 +63,5 @@ https://github.com/evgenyneu/SigmaSwiftStatistics
 
 https://github.com/mattt/Surge
 
+https://github.com/wangjwchn/MetalAcc
 

@@ -1,5 +1,4 @@
 # IOS/OSX GPU based Machine and Deep Learning for Kaggle.
-IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 
 ![](metal.jpeg)
 

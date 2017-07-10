@@ -1,21 +1,22 @@
 # IOS-Deep-Learning
-IOS/OSX Machine and Deep Learning.
-*Note: To run the app you need Xcode 8 and an iOS 10-compatible device (or latest Mac OSX) with at least an A8 processor.*
+IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 
 ![](metal.jpeg)
 
-This repository contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance.
-In particular each lesson describes a different topic while building knwoledge from previous lessons. 
+This repository contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this library to make it easier to get you going.  
 
-**Dreaming about writing an ML based app for the iPhone?** Want to get your hands dirty writing basic image processing filters using Swift Plygrounds ... on the GPU using Metal? 
+
+**Dreaming about writing an ML based app for the iPhone?** Want to get your hands dirty in a Kaggle competition? Want to use the GPU with Metal? 
 
 You are in the right place. 
 
-Apple's Metal is a low-level, low-overhead hardware-accelerated graphics API that debuted in iOS 8. Apple states that Metal "lets developers create highly immersive console-style games on iPhone. Metal is optimized to allow the CPU and GPU to work together to deliver detailed graphics and complex visual eﬀects." 
+**Apple's Metal** is a low-level, low-overhead hardware-accelerated graphics API that debuted in iOS 8. Apple states that Metal "lets developers create highly immersive console-style games on iPhone. Metal is optimized to allow the CPU and GPU to work together to deliver detailed graphics and complex visual eﬀects." 
 
-Apple had also recently presented a native machine learning (CoreML) and machine vision (Vision) frameworks augmenting the already existing libraries they provided (e.g, Accelerate). This significantly enhances the vast array of ML based apps that can be deployed to IOS based devices.
+Apple had also recently presented a native machine learning (**CoreML**) and machine vision (**Vision**) frameworks augmenting the already existing libraries they provided (e.g, Accelerate). This significantly enhances the vast array of ML based apps that can be deployed to IOS based devices.
 
 ![](playground.png)
+
+*Note: To run this repo you need Xcode 8 and an iOS 10-compatible device (or latest Mac OSX) with at least an A8 processor.*
 
 Stack:
 

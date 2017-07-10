@@ -1,4 +1,4 @@
-# IOS/OSX GPU based Machine and Deep Learning for Kaggle.
+# GPUSwiftKaggler: A swift based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 
 ![](metal.jpeg)
 

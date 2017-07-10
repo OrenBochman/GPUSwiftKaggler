@@ -5,7 +5,7 @@
 
 ## Introduction
 
-**GPUSwiftKaggler** contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this (Metal, MPSCNN, Metal Performance Shaders, HD5) to make it easier to get you going.
+**GPUSwiftKaggler** contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this (Metal, MPSCNN, Metal Performance Shaders, HDF5Kit, ) to make it easier to get you going.
 
 **AFAIK, GPUSwiftKaggler is the first Swift based library for Kaggle.** 
 
@@ -67,7 +67,10 @@ Shlomo Kashani ([shlomo@deep-ml.com](http://deep-ml.com))
 
 ## Credits
 
+https://github.com/aleph7/HDF5Kit
 
+https://github.com/evgenyneu/SigmaSwiftStatistics
 
+https://github.com/mattt/Surge
 
 

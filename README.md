@@ -4,8 +4,8 @@
 
 ## Introduction
 
-This repository contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this library to make it easier to get you going.  
-**AFAIK, This is the first Swift based library for Kaggle.** 
+**GPUSwiftKaggler** contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this library to make it easier to get you going.  
+**AFAIK, GPUSwiftKaggler is the first Swift based library for Kaggle.** 
 
 ## Motivation 
 **Dreaming about writing an ML based app for the iPhone?** Want to get your hands dirty in a Kaggle competition? Want to use the GPU with Metal? 

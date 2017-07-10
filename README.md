@@ -5,12 +5,20 @@
 
 ## Introduction
 
-**GPUSwiftKaggler** contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this (Metal, MPSCNN, Metal Performance Shaders, HDF5Kit, ) to make it easier to get you going.
+**GPUSwiftKaggler** contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this to make it easier to get you going.
 
 **AFAIK, GPUSwiftKaggler is the first Swift based library for Kaggle.** 
 
+# Dependencies
+
+- `Accelerate` framework
+- `Foundation` framework
+- `Metal` framework
+- `MPS (Metal Performance Shaders)` framework
+- `HDF5KIT` framework
+
 ## Features
-- [x] Very fast: uses Metal and Accelerate under the hood. 
+- [x] Very fast: uses Metal and Accelerate under the hood which leaverages the GPU and SIMD of the CPU, which make the code run faster than native Swift code.
 - [x] Extensible image processing for feature generation.
 - [x] TBD
 - [x] TBD

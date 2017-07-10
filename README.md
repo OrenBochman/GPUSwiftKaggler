@@ -1,10 +1,11 @@
 <img src="https://github.com/QuantScientist/GPUSwiftKaggler/blob/master/swiftkaggler.png" width="300">
 
-# A swift based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
+# A Swift/Metal based library for IOS/OSX GPU based Machine and Deep Learning for Kaggle.
 
 ## Introduction
 
-**GPUSwiftKaggler** contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this library to make it easier to get you going.  
+**GPUSwiftKaggler** contains Apple playgrounds and full Xcode projects for running compute kernels on an apple GPU instance targeting mostly *Kaggle competitions*. Many frameworks have been incorporated into this (Metal, MPSCNN, Metal Performance Shaders, HD5) to make it easier to get you going.
+
 **AFAIK, GPUSwiftKaggler is the first Swift based library for Kaggle.** 
 
 ## Motivation 
@@ -25,14 +26,23 @@ Apple had also recently presented a native machine learning (**CoreML**) and mac
 Stack:
 
 • The GPU
+
 • CoreML
+
 • Accelerate
+
 • MPSCNN
+
 • Metal Performance Shaders
+
 • CNN
+
 • Metal
+
 • Swift
+
 • iOS 11.0 Beta
+
 • Xcode 9+ Beta
 
 
